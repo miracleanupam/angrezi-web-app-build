@@ -1,0 +1,18 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Parts of Speech",
+      "assetFile": "partsOfSpeechLesson.txt"
+    }
+  ],
+  "quizes": [],
+  "songs": [],
+  "vocab": [
+    {
+      "id": 1,
+      "title": "Animals",
+      "assetFile": "animalsVocab.json"
+    }
+  ]
+}
