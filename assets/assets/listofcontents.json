@@ -6,7 +6,13 @@
       "assetFile": "partsOfSpeechLesson.txt"
     }
   ],
-  "quizes": [],
+  "quizes": [
+    {
+      "id": 1,
+      "title": "Parts of Speech - Quiz 1",
+      "assetFile": "partsOfSpeechQuiz1.json"
+    }
+  ],
   "songs": [],
   "vocab": [
     {
